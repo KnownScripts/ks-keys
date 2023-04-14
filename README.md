@@ -17,4 +17,4 @@ This is an qb-core vehiclekey system for ox_lib based servers who want to use ox
 
 # Depedencies 
 
-* OX_LIB(https://github.com/overextended/ox_lib/releases)
+* [ox_lib](https://github.com/overextended/ox_lib/releases)
