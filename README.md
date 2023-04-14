@@ -10,7 +10,7 @@ This is an qb-core vehiclekey system for ox_lib based servers who want to use ox
 
 * Created functions for animations starts and stops
 
-* Added dispatch notify
+* Added police alerts
 
 * Added car alarm functions for lockpicking and hotwiring an car
 
