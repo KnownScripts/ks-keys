@@ -13,3 +13,8 @@ This is an qb-core vehiclekey system for ox_lib based servers who want to use ox
 * Added dispatch notify
 
 * Added car alarm functions for lockpicking and hotwiring an car
+
+
+# Depedencies 
+
+* ox_lib[https://github.com/overextended/ox_lib]
