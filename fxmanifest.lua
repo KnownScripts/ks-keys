@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'https://github.com/QBCore-Remastered'
-version '1.0.1'
+description 'KS - VEHICLEKEYS'
+version '2.3.0'
 
 shared_scripts {
 	'@Framework/shared/locale.lua',
